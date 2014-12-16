@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.app-o-mat.jqm-cordova-template-project" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <preference name="loglevel" value="DEBUG" />
+    <name>jQM Starter App</name>
+    <description>
+        A template Apache Cordova application using jQuery Mobile
+    </description>
+    <author email="lou@app-o-mat.com" href="http://app-o-mat.com">
+        Lou Franco
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="StatusBarOverlaysWebView" value="false" />
+    <preference name="StatusBarBackgroundColor" value="#595b5b" />
+</widget>
